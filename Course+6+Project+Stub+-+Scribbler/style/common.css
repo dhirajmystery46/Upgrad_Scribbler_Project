@@ -26,3 +26,7 @@
     margin: 10px 10px 0px 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.modal-signin-container{
+    border: 10px solid white;
+}
